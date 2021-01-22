@@ -5,7 +5,8 @@ Description of the task is here: https://github.com/greta-vannes/test-cda-2
 
 ## Front-end built with
 
-- Raect
+- React
+- Redux
 - Javascript
 - CSS
 
